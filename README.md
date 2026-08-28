@@ -13,7 +13,7 @@ Lógica y Control de Flujo: Uso de condicionales (if / else) para la toma de dec
 
 🧪 Laboratorios Resueltos
 
-1. Conversor de Pulgadas a Centímetros (Lab #1):** Formularios en PHP para convertir pulgadas a centímetros.
+1. Conversor de Pulgadas a Centímetros (Lab1pulg): Formularios en PHP para convertir pulgadas a centímetros.
 2. Cálculo del Área de un Círculo (Lab #1): Ejercicio geométrico para calcular el área a partir del radio.
 3. Calculadora Básica (Lab #2): Script en PHP que permite sumar, restar, multiplicar y redondear números según la opción seleccionada por el usuario.
 4. Validación de Edad y Voto: Ejemplo práctico para comprobar si un usuario es mayor de edad antes de votar.
