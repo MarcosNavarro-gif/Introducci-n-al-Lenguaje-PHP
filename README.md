@@ -1,22 +1,19 @@
-# 🐘 Introducción a PHP - Prácticas y Laboratorios
+🐘 Introducción a PHP | Mis Prácticas y Laboratorios
 
-¡Bienvenido a este repositorio! Aquí encontrarás una recopilación de ejercicios prácticos.
+¡Hola! Te doy la bienvenida a este repositorio. Aquí voy guardando mis ejercicios sobre la introducción de php.
 
-## 📋 Contenido del Repositorio
+📋 ¿Qué vas a encontrar aquí?
 
-El proyecto está organizado en diferentes prácticas que cubren temas esenciales del lenguaje:
+El contenido está dividido en varias prácticas donde aplico los temas esenciales del lenguaje:
 
-* **Sintaxis Básica y Embebido HTML:** Estructura general de archivos `.php` e integración de scripts dentro de documentos HTML.
-* **Operadores Matemáticos y Aritmética:** Uso de operaciones de suma, resta, multiplicación, división, potencia (`**`), módulo (`%`), uso de funciones como `abs()`, `round()`, `ceil()` y `floor()`.
-* **Estructuras Control y Lógica:** Condicionales `if / else`, toma de decisiones y estructuras `switch`.
+Sintaxis Básica y PHP en HTML: Cómo estructurar archivos ".php" e integrar código dentro de plantillas HTML.
+Operaciones Matemáticas: Uso de operadores aritméticos (suma, resta, multiplicación, división, potencia, módulo).
+Formularios e Interacción (POST): Procesamiento de datos enviados por el usuario utilizando las variables superglobales "$_POST"
+Lógica y Control de Flujo: Uso de condicionales (if / else) para la toma de decisiones.
 
-## 🧪 Laboratorios e Proyectos Incluidos
+🧪 Laboratorios Resueltos
 
-1. **Laboratorio #1 - Conversor de Unidades (Pulgadas a Centímetros)**
-   * Programa que recibe un valor en pulgadas desde un formulario y calcula su equivalente en centímetros.
-2. **Laboratorio #1 - Cálculo del Área de una Circunferencia**
-   * Ejercicio de cálculo geométrico que toma el radio de un círculo y devuelve su área usando la constante.
-3. **Laboratorio #2 - Calculadora en PHP**
-   * Script funcional que realiza operaciones de suma, resta, multiplicación y redondeo según las entradas del usuario.
-4. **Validación de Edad y Voto**
-   * Ejemplo práctico de procesamiento de datos mediante formulario para determinar si una persona es mayor de edad.
+1. Conversor de Pulgadas a Centímetros (Lab #1):** Formularios en PHP para convertir pulgadas a centímetros.
+2. Cálculo del Área de un Círculo (Lab #1): Ejercicio geométrico para calcular el área a partir del radio.
+3. Calculadora Básica (Lab #2): Script en PHP que permite sumar, restar, multiplicar y redondear números según la opción seleccionada por el usuario.
+4. Validación de Edad y Voto: Ejemplo práctico para comprobar si un usuario es mayor de edad antes de votar.
