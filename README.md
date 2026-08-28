@@ -1,6 +1,6 @@
 🐘 Introducción a PHP | Mis Prácticas y Laboratorios
 
-¡Hola! Te doy la bienvenida a este repositorio. Aquí voy guardando mis ejercicios sobre la introducción de php.
+Te doy la bienvenida a este repositorio. Aquí voy guardando mis ejercicios sobre la introducción de php.
 
 📋 ¿Qué vas a encontrar aquí?
 
