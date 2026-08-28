@@ -11,7 +11,7 @@ Operaciones Matemáticas: Uso de operadores aritméticos (suma, resta, multiplic
 Formularios e Interacción (POST): Procesamiento de datos enviados por el usuario utilizando las variables superglobales "$_POST"
 Lógica y Control de Flujo: Uso de condicionales (if / else) para la toma de decisiones.
 
-🧪 Laboratorios Resueltos
+Laboratorios Resueltos
 
 1. Conversor de Pulgadas a Centímetros (Lab1pulg): Formularios en PHP para convertir pulgadas a centímetros.
 2. Cálculo del Área de un Círculo (Lab #1): Ejercicio geométrico para calcular el área a partir del radio.
