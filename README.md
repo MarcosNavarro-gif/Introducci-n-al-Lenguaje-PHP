@@ -14,9 +14,9 @@ Este laboratorio tiene como objetivo introducir los fundamentos principales de P
 | `lab2calc.php`                 | Se encarga de recibir y procesar los datos enviados desde `lab2.php` para posteriormente mostrar el resultado de la operación seleccionada.                    |
 | `formulario.php`                 | Ejercicio relacionado con el cálculo o la presentación de la edad utilizando información proporcionada por el usuario.                                                |
 | `formulario2.php`              | Página adicional utilizada como parte del ejercicio de formulario.                                                                                               |
-| `Verificacion de php.php`            | Corresponde al primer ejercicio desarrollado para poner en práctica los conocimientos básicos de PHP.                                                                 |
-| `embebido.php`            | Segundo ejercicio enfocado en el uso de elementos fundamentales del lenguaje PHP.                                                                                     |
-| `practica1.php`            | Tercer ejercicio de la práctica, destinado a reforzar los conceptos aprendidos.                                                                                       |
+| `practica1.php`            | Corresponde al primer ejercicio desarrollado para poner en práctica los conocimientos básicos de PHP.                                                                 |
+| `Verificacion de php.php`            | Segundo ejercicio enfocado en el uso de elementos fundamentales del lenguaje PHP.                                                                                     |
+| `embebido.php`            | Tercer ejercicio de la práctica, destinado a reforzar los conceptos aprendidos.                                                                                       |
 | `opearitmetica.php`            | Ejercicio realizado como parte del laboratorio de introducción a PHP con operaciones matematicas.                                                                                          |
 | `lab1(area, perimetro).php / lab1(area, perimetro)2`              | Implementación del ejercicio sobre el area y perimetro de un circulo.                                                          |
 | `lab1pulgadas.php` / `lab1pulgadas2.php` | Archivos utilizados para realizar conversiones relacionadas con unidades de medida, principalmente pulgadas.                                                          |
